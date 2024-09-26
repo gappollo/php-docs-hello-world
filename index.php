@@ -15,7 +15,7 @@
   <p>My company portal with embedded RingCentral plugin for Click to Call</p>
 </article>
     <body>
-        <?php echo "Hello! This is a basic testing page for Azure App services. It is developed in PHP"; ?>
+        <?php echo "This is a testing page for Azure App services. It is developed in PHP"; ?>
     </body>
 
    
