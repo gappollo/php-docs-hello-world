@@ -21,12 +21,12 @@
        
     </body> 
  
-    <script src="https://ringcentral.github.io/ringcentral-embeddable-voice/adapter.js"></script>
+   <!–– <script src="https://ringcentral.github.io/ringcentral-embeddable-voice/adapter.js"></script> ––>
 
 </html>
 
-<!––  
-<script>
+ 
+<!–– <script>
   (function() {
     var rcs = document.createElement("script");
     rcs.src = "https://apps.ringcentral.com/integration/ringcentral-embeddable/latest/adapter.js";
