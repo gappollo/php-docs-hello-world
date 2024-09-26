@@ -3,7 +3,17 @@
     <head>
         <title>MyWebPortal demo page</title>
     </head>
-    <header> Embedding RingCentral client </header>
+    <header>
+        <a class="logo" href="#">Demo Page!</a>
+        <img src="logo.png" />
+    </header>
+<article>
+  <header>
+    <h1>RingCentral Embeddable client</h1>
+    <time>26.09.2024</time>
+  </header>
+  <p>My company portal with embedded RingCentral plugin for Click to Call</p>
+</article>
     <body>
         <?php echo "Hello! This is a basic testing page for Azure App services. It is developed in PHP"; ?>
     </body>
