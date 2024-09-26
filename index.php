@@ -4,8 +4,10 @@
         <title>MyWebPortal demo page</title>
     </head>
     <header>
-        <a class="logo" href="#">Demo Page!</a>
-        <img src="logo.png" width="400" height="200"/>
+       <img src="logo.png" width="400" height="200"/> 
+        <br>
+        <a class="logo" href="#"> Demo Page!</a>
+        
     </header>
 <article>
   <header>
