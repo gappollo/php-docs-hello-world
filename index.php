@@ -18,12 +18,14 @@
 </article>
     <body>
         <?php echo "This is a testing page for Azure App services. It is developed in PHP"; ?>
-    </body>
 
-   
+        <script src="https://ringcentral.github.io/ringcentral-embeddable-voice/adapter.js"></script>
+        
+    </body> 
     
 </html>
 
+<!––  
 <script>
   (function() {
     var rcs = document.createElement("script");
@@ -32,3 +34,4 @@
     rcs0.parentNode.insertBefore(rcs, rcs0);
   })();
 </script>
+––>
