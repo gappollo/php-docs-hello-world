@@ -1,22 +1,17 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>PHP Test</title>
+        <title>MyWebPortal demo page</title>
     </head>
-    <header>
-        <a class="logo" href="#">Cute Puppies Express!</a>
-    </header>
-    <article>
-  <header>
-    <h1>Beagles</h1>
-    <time>08.12.2014</time>
-  </header>
-  <p>I love beagles <em>so</em> much! Like, really, a lot. They’re adorable and their ears are so, so snugly soft!</p>
-</article>
- 
+    
     <body>
         <?php echo "Hello! This is a basic testing page for Azure App services. It is developed in PHP"; ?>
     </body>
+
+    <iframe width="300" height="500" id="rc-widget" allow="autoplay; microphone"
+        src="https://apps.ringcentral.com/integration/ringcentral-embeddable/latest/app.html">
+    </iframe>
+    
 </html>
 
 <script>
