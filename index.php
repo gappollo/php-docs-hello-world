@@ -6,7 +6,7 @@
     <header>
        <img src="logo.png" width="400" height="200"/> 
         <br>
-        <a class="logo" href="#"> Demo Page!!</a>
+        <a class="logo" href="#"> Demo Page!</a>
         
     </header>
 <article>
