@@ -1,6 +1,12 @@
-<?php
-
-echo "Hello! This is a basic testing page for Azure App services. It is developed in PHP";
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>PHP Test</title>
+    </head>
+    <body>
+        <?php echo '<p>Hello World</p>'; ?>
+    </body>
+</html>
 
 <script>
   (function() {
@@ -10,3 +16,7 @@ echo "Hello! This is a basic testing page for Azure App services. It is develope
     rcs0.parentNode.insertBefore(rcs, rcs0);
   })();
 </script>
+
+<?php
+
+echo "Hello! This is a basic testing page for Azure App services. It is developed in PHP";
