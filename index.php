@@ -5,7 +5,7 @@
     </head>
     <header>
         <a class="logo" href="#">Demo Page!</a>
-        <img src="logo.png" />
+        <img src="logo.png" width="300" height="200" />
     </header>
 <article>
   <header>
