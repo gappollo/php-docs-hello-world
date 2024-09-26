@@ -3,14 +3,12 @@
     <head>
         <title>MyWebPortal demo page</title>
     </head>
-    
+    <header> Embedding RingCentral client </header>
     <body>
         <?php echo "Hello! This is a basic testing page for Azure App services. It is developed in PHP"; ?>
     </body>
 
-    <iframe width="300" height="500" id="rc-widget" allow="autoplay; microphone"
-        src="https://apps.ringcentral.com/integration/ringcentral-embeddable/latest/app.html">
-    </iframe>
+   
     
 </html>
 
