@@ -6,7 +6,7 @@
     <header>
        <img src="logo.png" width="400" height="200"/> 
         <br>
-        <a class="logo" href="#"> Demo Page</a>
+        <a class="logo" href="#"> Demo Page!</a>
         
     </header>
 <article>
@@ -29,7 +29,7 @@
     // Invoke embeddable dialer
       (function() {
             var rcs = document.createElement("script");
-            rcs.src = "https://apps.ringcentral.com/integration/ringcentral-embeddable/latest/adapter.js";
+            rcs.src = "https://apps.ringcentral.com/integration/ringcentral-embeddable/latest/adapter.js?disableReadText=TRUE";
             var rcs0 = document.getElementsByTagName("script")[0];
             rcs0.parentNode.insertBefore(rcs, rcs0);
                   })();
