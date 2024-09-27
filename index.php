@@ -24,7 +24,7 @@
     <script>
       (function() {
             var rcs = document.createElement("script");
-            rcs.src = "https://apps.ringcentral.com/integration/ringcentral-embeddable/2.0.0/adapter.js?clientId=YOUR_RINGCENTRAL_CLIENT_ID";
+            rcs.src = "https://apps.ringcentral.com/integration/ringcentral-embeddable/2.0.0/adapter.js?clientId=779444071";
             var rcs0 = document.getElementsByTagName("script")[0];
             rcs0.parentNode.insertBefore(rcs, rcs0);
                   })();
